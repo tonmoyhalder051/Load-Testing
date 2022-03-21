@@ -1,0 +1,14 @@
+Dear, 
+
+I’ve completed performance test on frequently used API for test App. 
+Test executed for the below mentioned scenario in The Test World API website.
+
+100 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 1.667 And Total Concurrent API requested: 700.
+500 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 8 And Total Concurrent API requested: 3500.
+700 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 12 And Total Concurrent API requested: 4900.
+
+While executed 700 concurrent request, found  62 request got connection timeout and error rate is 1.27%. 
+
+Summary: Server can handle almost concurrent 580 API call with almost zero (0) error rate.
+
+Please find the details report from the attachment and  let me know if you have any further queries. 
