@@ -33,7 +33,7 @@ The requests were set using JMeter app and the test cases for different user had
 ## Go to html folder and find each test case report of different Concurrent Request.Open the index.html of each concurrent request test case's folder to get the detailed report of each tested concurrent request.
 ## Download jmx files from the jmx folder to test these on JMeter app.You can also download the jtl files from jtl folder to generate the report on CLI mode.
 
-## 3.Load Testing of The World Testing API 
+## 3.Load Testing of The Testing  World API 
 Project Includes:
 
 1.Contains jmx files for each concurrent request.
